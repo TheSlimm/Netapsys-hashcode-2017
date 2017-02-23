@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HashCode
 {
@@ -11,6 +7,7 @@ namespace HashCode
         static void Main(string[] args)
         {
             Console.WriteLine("Wazaaaa");
+            Console.WriteLine("YOLO");
             Console.Read();
         }
     }
